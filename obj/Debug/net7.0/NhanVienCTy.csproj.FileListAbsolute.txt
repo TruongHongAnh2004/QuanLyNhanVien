@@ -1,0 +1,14 @@
+D:\baiTapLinhTinh\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.exe
+D:\baiTapLinhTinh\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.deps.json
+D:\baiTapLinhTinh\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.runtimeconfig.json
+D:\baiTapLinhTinh\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.dll
+D:\baiTapLinhTinh\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.pdb
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.GeneratedMSBuildEditorConfig.editorconfig
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.AssemblyInfoInputs.cache
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.AssemblyInfo.cs
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.csproj.CoreCompileInputs.cache
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.dll
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\refint\NhanVienCTy.dll
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.pdb
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.genruntimeconfig.cache
+D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\ref\NhanVienCTy.dll
