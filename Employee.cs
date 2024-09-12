@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Win32.SafeHandles;
+
+//Bài quản lý nhân viên bán hàng (gồm Manage, Sale)
 
 namespace NhanVienCTy
 {
@@ -26,13 +29,21 @@ namespace NhanVienCTy
             this.City = _ctiy;
         }
         //đa hình nhập 
-        public virtual void Nhap()
+        public virtual void Input()
         {
-            Console.WriteLine("Nhap thong tin Nhan Vien");
+            Console.WriteLine("Nhập thông tin Nhân Viên");
+            Console.Write("Nhập STT: ");
             this.Id = Console.ReadLine();
+            Console.Write("Nhập họ tên: ");
             this.Name = Console.ReadLine();
+            Console.Write("Tuổi: ");
             this.Age = int.Parse(Console.ReadLine());
-            this.Gioitinh = bool.Parse(Console.ReadLine());
+
+            Console.Write("Nam hay nữ: ");
+            string input = Console.ReadLine();
+            this.Gioitinh = (input == "Male") ? true : false;
+
+            Console.Write("Quê quán: ");
             this.City= Console.ReadLine();
 
         }
@@ -47,10 +58,12 @@ namespace NhanVienCTy
         {
             Salary = salary;
         }
-        public override void Nhap()
+        public override void Input()
         {
+            base.Input(); //Gọi hàm Nhap ở lớp cơ sở (lớp cha)
             Console.Write("Luong nhan vien la: ");
             this.Salary = double.Parse(Console.ReadLine());
+            
         }
         public override void Output()
         {
@@ -67,8 +80,9 @@ namespace NhanVienCTy
         {
             Salary = salary;
         }
-        public override void Nhap()
+        public override void Input()
         {
+            base.Input();
             Console.Write("Luong nhan vien la: ");
             this.Salary = double.Parse(Console.ReadLine());
         }

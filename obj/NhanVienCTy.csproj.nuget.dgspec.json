@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\baiTapLinhTinh\\NhanVienCTy\\NhanVienCTy.csproj": {}
+    "D:\\NhanVienCTy\\NhanVienCTy.csproj": {}
   },
   "projects": {
-    "D:\\baiTapLinhTinh\\NhanVienCTy\\NhanVienCTy.csproj": {
+    "D:\\NhanVienCTy\\NhanVienCTy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baiTapLinhTinh\\NhanVienCTy\\NhanVienCTy.csproj",
+        "projectUniqueName": "D:\\NhanVienCTy\\NhanVienCTy.csproj",
         "projectName": "NhanVienCTy",
-        "projectPath": "D:\\baiTapLinhTinh\\NhanVienCTy\\NhanVienCTy.csproj",
+        "projectPath": "D:\\NhanVienCTy\\NhanVienCTy.csproj",
         "packagesPath": "C:\\Users\\Hong Anh\\.nuget\\packages\\",
-        "outputPath": "D:\\baiTapLinhTinh\\NhanVienCTy\\obj\\",
+        "outputPath": "D:\\NhanVienCTy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hong Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",

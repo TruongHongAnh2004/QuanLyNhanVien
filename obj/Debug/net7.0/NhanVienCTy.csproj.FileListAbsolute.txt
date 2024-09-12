@@ -12,3 +12,17 @@ D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\refint\NhanVienCTy.dll
 D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.pdb
 D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.genruntimeconfig.cache
 D:\baiTapLinhTinh\NhanVienCTy\obj\Debug\net7.0\ref\NhanVienCTy.dll
+D:\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.exe
+D:\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.deps.json
+D:\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.runtimeconfig.json
+D:\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.dll
+D:\NhanVienCTy\bin\Debug\net7.0\NhanVienCTy.pdb
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.AssemblyInfoInputs.cache
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.AssemblyInfo.cs
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.csproj.CoreCompileInputs.cache
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.dll
+D:\NhanVienCTy\obj\Debug\net7.0\refint\NhanVienCTy.dll
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.pdb
+D:\NhanVienCTy\obj\Debug\net7.0\NhanVienCTy.genruntimeconfig.cache
+D:\NhanVienCTy\obj\Debug\net7.0\ref\NhanVienCTy.dll
